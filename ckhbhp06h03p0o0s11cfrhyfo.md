@@ -359,7 +359,7 @@ The top card and the next card will receive different styles. Also, the `PanResp
 
 ## Step 6. Decouple into Reusable Hook
 
-Our animation depends on a bunch of things here. The data itself changes along with `animation`, `opacity`, and `scale` values. And these things are tightly coupled with `PanResponder`. So that's all these out in a hook.
+Our animation depends on a bunch of things here. The data itself changes along with `animation`, `opacity`, and `scale` values. And these things are tightly coupled with `PanResponder`. So that's all we can take out in a hook.
 
 ```js
 // Create `useTinderCard` hook
