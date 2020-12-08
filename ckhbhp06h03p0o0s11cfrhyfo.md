@@ -536,3 +536,5 @@ Other things remain the same. You can also directly return styles and apply them
 
 I hope you learned something with this tutorial. If yes, a tweet would be wonderful 🤓. Let me know what you would like me to write next.  
 Shad
+
+%%[buy-me-a-cofee]
