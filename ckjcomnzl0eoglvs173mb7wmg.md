@@ -122,7 +122,7 @@ He stopped me from doing it and told me how difficult it was to find a job witho
 
 ## First Interview
 
-I interviewed at a company in Bangalore. I told them I am self-taught so I might not be familiar with terminologies you use in the company but I can code. The interview experience was great but I didn't perform well. To be precise, I performed poorly and I hated myself for that. I got an offer for a fresher role but I didn't take it.
+I interviewed at a company in Bangalore called GeekyAnts. I told them I am self-taught so I might not be familiar with terminologies you use in the company but I can code. The interview experience was great but I didn't perform well. To be precise, I performed poorly and I hated myself for that. I got an offer for a fresher role but I didn't take it.
 
 I decided to prepare and apply again in the next 6 months.
 
