@@ -8,7 +8,7 @@ Let's start from the end of college life where the most common thought is **it's
 
 I studied at a Tier 4 college in Lucknow, Uttar Pradesh, India. Like all other colleges in town, it did a poor job of education. I knew that it's not a very good college before joining but the tuition was really low and hopefully something which I can afford. 4 years of college went by passing exams without acquiring much knowledge about code. Till the time I had a degree in my hand, I only knew how to make a portfolio using JSP pages. But at least I wasn't in a huge debt of education loan so that's the good part.  
 
-I was not good at coding at college because no one was answering my questions, **I got 30/100 marks in C and Java**. These were the only two subjects in our academic year for coding.
+I was not good at coding in college because no one was answering my questions, **I got 30/100 marks in C and Java**. These were the only two subjects in our academic year for coding.
 
 We didn't have placements at college so the usual way of getting a job was to go to Noida or Bangalore and apply at every mass recruitment happening. Mass recruitment is something like a Battle Royal where thousands of students apply for 100 seats in a service-based company. Here is how it looks:
 
@@ -28,7 +28,7 @@ I didn't have an answer so I decided to prepare something to show before I go on
 
 ## Preparing for Job Hunt
 
-My friends left for a job hunt and I started thinking about how and what to learn. I knew Java basics and JSP pages so I decided to get better at Java first then try Android Development.
+My friends left for the job hunt and I started thinking about how and what to learn. I knew Java basics and JSP pages so I decided to get better at Java first then try Android Development.
 
 It's June 2018 and Bucky Roberts is creating some amazing tutorials on YouTube. I learned Java from his [Java Core tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) and moved on to learn Android Development from [these tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl).
 
@@ -38,17 +38,17 @@ I didn't know about Udemy back then so YouTube was my savior. It took me three m
 
 My college was situated in Lucknow city and there was an ongoing project of Lucknow Metro at that time. The government website sucked and I decided to make an app for the same.
 
-The app had station info, maps, and a fair calculator. It was also able to print the route back and forth on the screen. To make this basic app a little interesting, I stored the station data on firebase and added authentication. Once saved, the user can save a few routes for a quick view. That was all. The goal was to show that I know how to use firebase and build an app.
+The app had station info, maps, and a fair calculator. It was also able to print the route back and forth on the screen. To make this basic app a little interesting, I stored the station data on firebase and added authentication. Once logged in, the user can save a few routes for a quick view. That was all. The goal was to show that I know how to use firebase and build an app.
 
 I was excited after building this since this was my first real project so I recorded a video and posted it on my WhatsApp status. Someone took that video and sent it to his friend in Bangalore and I got a call for an interview. I came to Bangalore, gave the interview, and got the job 🎉. All thanks to [Bucky Roberts](https://twitter.com/bucky_roberts) Sir 🙏
 
-My friends who came here 3 months ago are still searching for a job and will keep searching for 6 more months. If we look now, staying back was a good idea.
+My friends who came here 3 months ago were still searching for jobs and will keep searching for 6 more months. If we look now, staying back was a good idea.
 
 There is one little catch here, this is an early-stage startup with no funding so my salary was really low, I was hardly able to afford my living there. I have heard that startups don't really pay for 3 months (or at all) but that was a chance I was willing to take.
 
-Since the pay was low and few of my friends were already placed in MNCs on much higher packages. Everyone I knew from friends to family suggested to not go for a startup and apply at MNC instead. My father said "Do what you feel is good for you" and that was quite relieving.
+Since the pay was low and few of my friends were already placed in MNCs on much higher packages. Everyone I knew from friends to family suggested to not go for a startup and apply at MNC instead. My father said **"Do what you feel is good for you"** and that was quite relieving.
 
-I thought the worst case could be I won't get paid for a year while keep working and I will have to start fresh next year with no proof of experience. I was 23 and losing one year was a risk that I can take. I was confident that as long as I know how to code, I can do something about my career even. I took my chances and joined this startup on October 22, 2018. The actual rollercoaster begins from here 🎢.
+I thought the worst case could be I won't get paid for a year while keep working and I will have to start fresh next year with no proof of any experience. I was 23 and losing one year was a risk that I can take. I was confident that as long as I know how to code, I can do something about my career. I took my chances and joined this startup on October 22, 2018. The actual rollercoaster begins from here 🎢.
 
 ## The Startup Experience
 
@@ -58,7 +58,7 @@ The project continued for 2 months and the senior folks decided to abandon it an
 
 That's what I said. I was told to learn React Native in 2 weeks. I learned the basics of React Native in about 18 days and started the project. I didn't learn JavaScript first and kept learning what's necessary as things came in the React Native roadmap.
 
-Things are pretty slow if you try to build an android app on a 4GB RAM laptop so it took some time for me to catch up. The company didn't have a system that I can work on so I had to use mine. And you know what happens when you use your own laptop for work? There is no work hour. You will have to work after work hours, at nights, on Sundays too.
+Things are pretty slow if you try to build an android app on a 4GB RAM laptop so it took some time for me to catch up. The company didn't have a system that I can work on so I had to use mine. And you know what happens when you use your own laptop for work? There are no work hours. You will have to work after your shift is done, at nights, on Sundays too.
 
 In the meantime, someone introduced me to Udemy and I took a React Native course by [Stephen Grider](https://www.twitter.com/ste_grider). I realized that I was doing almost everything wrong and since there was no one to check and guide, I kept doing it till I got this course. It was a life savior and Stephen is the best teacher I have seen in my whole life.
 
@@ -84,7 +84,7 @@ I decided to observe what others are doing and then follow the same. I was reall
 
 I learned that people love MobX, Design System, and more importantly blogging for some reason. So I tried all of it except blogging.
 
-I was sure of one thing that I don't know anything about. And blogging is about sharing what you know so I hesitated at writing blogs. But then I asked one of the persons from above three about what to do when I don't have experience. I had a lot of concerns like what If I make mistakes and I asked him on Twitter. He wrote [this blog](https://sid.st/post/start-a-blog/) on May 17 2019 and it resolved all my concerns. After reading this, I wrote and posted [my first blog](https://iamshadmirza.com/how-to-align-and-justify-your-flex-item-in-first-try) on Hashnode on May 20, 2019. This was going to be a turning point in my career (again). 
+I was sure of one thing that I don't know anything about code. And blogging is about sharing what you know so I hesitated at writing blogs. But then I asked one of the persons from the above three mentioned folks about what to do when I don't have experience. I had a lot of concerns like what if I make mistakes and I asked him on Twitter. He wrote [this blog](https://sid.st/post/start-a-blog/) on May 17 2019 and it resolved all my concerns. After reading this, I wrote and posted [my first blog](https://iamshadmirza.com/how-to-align-and-justify-your-flex-item-in-first-try) on Hashnode on May 20, 2019. This was going to be a turning point in my career (again). 
 
 > It's a rollercoaster remember? There are lots of turning points.
 
@@ -98,19 +98,19 @@ This little achievement opened my way to many more opportunities and at the very
 
 ## Freelance Journey
 
-After a few weeks of this, the company stopped paying my salary because they ran out of funds. And the salary was low, to begin with, so I didn't have any savings to afford a living.
+After a few weeks of this, the company stopped paying my salary because they ran out of funds. And the salary was low to begin with, so I didn't have any savings to afford a living.
 
 Because of writing for these big publications, I got approached for writing tech articles and get paid for it.
 
-My first earning from writing was $30 and it was a ghost blogging. If you don't know about ghost blogging, it's when you write and get paid but you won't get the credit. Few folks do this to create quality content on their portfolio to get more traffic and hopefully some freelancing gigs.
+My first earning from writing was $30 and it was a ghost blogging. If you don't know about ghost blogging, it's when you write and get paid but you won't get the credit. Few folks do this to create quality content on their portfolio to get more traffic and hopefully get some freelancing gigs.
 
-At this point in time, my posts were present in few top publications and I was getting noticed. People knew that I know React Native so people who happen to be on my blogs started approaching me for freelancing works. What perfect timing!.
+At this point in time, my posts were present in few top publications and I was getting noticed. People knew that I know React Native so those who happen to be on my blogs started approaching me for freelancing works. What perfect timing!.
 
 I did a few freelance projects to sustain the living but it was very difficult. Since I was spending around 10 am to 10 pm on office work, I barely had time to do anything else let alone blogging. I needed a solution.
 
 I tried stretching the work at night but I was so tired that I couldn't do it. So I decided to wake up early.
 
-I would wake up at 4 every morning and work on freelancing projects until 9 then head to my job at 10. Few mornings were dedicated to projects and few for blogging. This was more than enough to juggle office, freelance, and blogging.
+I would wake up at 4 am every morning and work on freelancing projects until 9 am then head to my job at 10 am. Few mornings were dedicated to projects and few for blogging. This was more than enough to juggle office, freelance, and blogging.
 
 The only problem was, it was way too hard and the work culture was affecting my mental health. I wanted to leave this job as soon as possible and go back home.
 
@@ -150,7 +150,7 @@ That's how I got from having no mentor to having 4 amazing mentors. I remember h
 
 ## My Breakthrough Project
 
-My salary was still on and off at this time, I didn't know if I would be paid this month or not. So I had no choice but to look for some freelancing. Because of the blogs, I had people approaching for collaboration so I never had to actually search for a freelance project.
+My salary was still on and off at this time, I didn't know if I would be paid this month or not. So I had no choice but to look for some freelancing work. Because of the blogs, I had people approaching for collaboration so I never had to actually search for freelance projects.
 
 As I did more and more work on React Native, I found out that I had a lot of components already built which I was copy-pasting everywhere and tweaking them a little. I thoughts why not group them all and create a library flexible enough to work with any freelance project I get. I did exactly that.
 
@@ -197,7 +197,7 @@ My breakthrough project was really a breakthrough for a lot of opportunities. Ri
 
 %[https://twitter.com/ReactBangalore/status/1225360307121356800?s=20]
 
-I am an introvert and it scares me to bones whenever I hear that I have to speak. And speaking in front of 200 people was the scariest thing I can do. I said Yes anyways.
+I am an introvert and it scares me to bones whenever I hear that I have to speak. And speaking in front of 200 people was the scariest thing I can do. **I said Yes anyway.**
 
 This was a fear that I wanted to get over with. [Kiran Abhuri](https://twitter.com/kiran_abburi) and [Aditya Agarwal](https://twitter.com/dev__adi) are two amazing people who are experienced in public speaking. I prepared a talk and presented it in front of them. Gathered feedback and improvised. Then finally presented at the meetup. (Sorry, I don't have a better picture)
 
