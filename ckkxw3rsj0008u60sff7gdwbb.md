@@ -4,4 +4,4 @@ azsdhjgasvdiuyasvdiashvdyauksd
 
 @[Shadeep Mirzeshwari](@shadeepmirzi)
 
-@[Mohd Shad Mirza](@iamshadmirza)
+@[Vamsi Rao](@vamsirao)
