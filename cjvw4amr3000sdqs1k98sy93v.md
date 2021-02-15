@@ -8,8 +8,6 @@ Hmm, I used to have problems with that too and I figured out the way. Sounds lik
 
 ## **What’s up with the confusion**
 
-@[Vamsi Rao](@vamsirao)
-
 So basically, in React, we use Flex boxes to align our component and the properties: ***justifyContent*** and ***alignItems*** are utterly confusing and you hardly get them on the first try. Just like plugging USB on the first try.
 
 So, I’m going to tell you how I learned these two properties and will try to make sure that after reading this blog post you too will be able to get the right alignment on your very first try. Let’s start.
