@@ -23,7 +23,7 @@ Did you know you can customize your Hashnode blog using Custom <abbr title="Casc
 
 Did you know you can customize your Hashnode blog using Custom <abbr title="Cascading Style Sheets">CSS</abbr>
 
-3. `dl`, `dt`, `dd`:
+## 3. `dl`, `dt`, `dd`:
 
 ```html
 <dl>
