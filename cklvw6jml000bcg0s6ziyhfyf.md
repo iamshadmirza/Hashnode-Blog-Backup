@@ -1,3 +1,3 @@
-## New Post in JavaScript feed
+## New Post in JavaScript and React feed
 
 Lorem Ipson Dolor
