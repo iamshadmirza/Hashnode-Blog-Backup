@@ -1,4 +1,4 @@
-## A Definite Guide to React Native Testing Library
+## A Definitive Guide to React Native Testing Library
 
 This guide will walk you through React Native testing using **React Native Testing Library**. We will cover why we would want to use this library, the benefits, how to write tests, and all sorts of stuff while building an exciting game app. Let's start 🚀
 
