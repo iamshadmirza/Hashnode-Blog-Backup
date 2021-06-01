@@ -132,4 +132,7 @@ Tada 🎉
 - Exclude only works on union literal to exclude one of the property.
 - Omit uses Pick and Exclude under the hook.
 
+## Further Reading
+- Utility Types in TypeScript: https://www.typescriptlang.org/docs/handbook/utility-types.html
+
 I hope this helps the next time you're using Omit or Exclude.
