@@ -132,9 +132,9 @@ If this interview didn't happen at this time, I would have continued doing the s
 
 ## More on Mentorship: Introduction to Tanay
 
-While all this was going on, I came to know about [Tanay Pratap](https://www.twitter.com/tanaypratap). I joined his telegram group called Team Tanay. Tanay works at Microsoft and has been teaching code to students on YouTube. More importantly, he genuinely cared about the student's future and gave really helpful advice. I instantly noticed that this is a great source of guidance.
+While all this was going on, I came to know about [Tanay Pratap](https://www.twitter.com/tanaypratap). I joined his telegram group called Team Tanay. Tanay works at Microsoft and has been teaching code to students on YouTube. More importantly, he genuinely cared about the student's future and shared really helpful advice on telegram and twitter. I instantly noticed that this is a great source of guidance.
 
-I kept reading whatever he was sharing on Instagram or Telegram and took whatever I can. It was not a direct one to one interaction at this time. I was just observing him closely. For example, this picture was set as a group logo and I thought that this book must be good since he likes it so much to put on the group logo.
+I kept reading whatever he was sharing on Instagram or Telegram and took whatever I can. It was not a direct one-to-one interaction at this time. I was just observing him closely. For example, this picture was set as a group logo and I thought that this book must be good since he likes it so much to put on the group logo.
 
 ![tanay](https://raw.githubusercontent.com/iamshadmirza/BlogsByShad/master/blogs/from-nothing-to-hashnode/tanay.jpeg)
 
@@ -142,11 +142,13 @@ I read this book **"So Good They Can't Ignore You"** and it was everything I was
 
 A while after that, Tanay launched his first podcast ["Tea with Tanay"](https://anchor.fm/teawithtanay). He would invite people and talk about their experiences on a range of topics.
 
-Again, this was also a super valuable source of guidance. I approached him directly to thank him for this and asked if there is any way I can help. That's how I started writing blogs on tea with Tanay. It was like supplementary reading for the listeners. It was wonderful collaborating with him.
+Again, this was also a super valuable source of guidance. I approached him directly to thank him for this and asked if there is any way I can help. That's how I started writing blogs on Tea with Tanay. It was like supplementary reading for the listeners. It was wonderful collaborating with him.
 
 That's how I got from having no mentor to having 4 amazing mentors. I remember how happy Tanay was when I got the job. He even came live on Instagram to share my success with his 40k followers too.
 
 > If you know Tanay, you might be familiar with the team tanay job challenge. My encounter with Tanay was way before that happened. I would say that the job challenge is a consolidation of all the advice he was sharing in the group to get a job. If you're looking for a job, you should [check it out](https://2020.teamtanay.jobchallenge.dev/).
+
+> Note: NeogCamp didn't back then, I have not taken any bootcamp.
 
 ## My Breakthrough Project
 
