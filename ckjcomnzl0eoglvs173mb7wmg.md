@@ -148,7 +148,7 @@ That's how I got from having no mentor to having 4 amazing mentors. I remember h
 
 > If you know Tanay, you might be familiar with the team tanay job challenge. My encounter with Tanay was way before that happened. I would say that the job challenge is a consolidation of all the advice he was sharing in the group to get a job. If you're looking for a job, you should [check it out](https://2020.teamtanay.jobchallenge.dev/).
 
-> Note: NeogCamp didn't back then, I have not taken any bootcamp.
+> Note: Bootcamp didn't exist back then, I was mostly learning myself.
 
 ## My Breakthrough Project
 
