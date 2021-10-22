@@ -4,7 +4,8 @@ I was trying to use `Omit` utility type to create a mapped type and it was givin
 
 <details>
 <summary>I am testing something on prod</summary>
-Please ignore this, thanks
+## Please ignore this, thanks
+Something `code` block
 </details>
 
 ## The Problem
