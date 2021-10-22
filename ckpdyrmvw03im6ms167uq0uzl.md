@@ -2,7 +2,10 @@
 
 I was trying to use `Omit` utility type to create a mapped type and it was giving me an error. Please consider the example below.
 
-%%[buy-me-a-coffee]
+<details>
+<summary>I am testing something on prod</summary>
+Please ignore this, thanks
+</details>
 
 ## The Problem
 
