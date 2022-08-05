@@ -1,6 +1,6 @@
 ## TIL: Difference between Omit and Exclude in TypeScript
 
-I was trying to use `Omit` utility type to create a mapped type and it was giving me an error. Please consider the example below.
+Hey everyone, I was trying to use `Omit` utility type to create a mapped type and it was giving me an error. Please consider the example below.
 
 ## The Problem
 
