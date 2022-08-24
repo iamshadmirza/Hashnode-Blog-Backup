@@ -2,6 +2,14 @@
 
 I was trying to use `Omit` utility type to create a mapped type and it was giving me an error. Please consider the example below.
 
+@iamshadmirza 
+
+<details>
+<summary>I am testing something on prod</summary>
+## Please ignore this, thanks
+Something `code` block
+</details>
+
 ## The Problem
 
 I have a type with union literals like this
