@@ -16,6 +16,8 @@ I have a type with union literals like this
 
 ```ts
 type something = 'abc' | 'bcd' | 'cde' | 'def';
+
+Href.co
 ```
 
 I wanted to create a Mapped type like this
