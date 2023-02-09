@@ -1,14 +1,6 @@
-## TIL: Difference between Omit and Exclude in TypeScript
+# TIL: Difference between Omit and Exclude in TypeScript
 
 I was trying to use `Omit` utility type to create a mapped type and it was giving me an error. Please consider the example below.
-
-@iamshadmirza 
-
-<details>
-<summary>I am testing something on prod</summary>
-## Please ignore this, thanks
-Something `code` block
-</details>
 
 ## The Problem
 
@@ -16,8 +8,6 @@ I have a type with union literals like this
 
 ```ts
 type something = 'abc' | 'bcd' | 'cde' | 'def';
-
-Href.co
 ```
 
 I wanted to create a Mapped type like this
