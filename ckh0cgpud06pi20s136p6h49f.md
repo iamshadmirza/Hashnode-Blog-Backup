@@ -1,4 +1,4 @@
-## React Native Animation using Hooks: Floating Heads
+# React Native Animation using Hooks: Floating Heads
 
 Hello everyone 👋, we are back with some React Native Animation. We will build Facebook messenger's floating heads using Animated library and Hooks 🙌. It's going to be fun so hold tight.
 
