@@ -1,4 +1,4 @@
-## Learn React Native Animation by building Circular Progress Bar
+# Learn React Native Animation by building Circular Progress Bar
 
 Today, we are going to build a circular progress bar using the `Animated` library of react native with the help of *three semicircles*. Let's understand the concept first then we will dive into coding.
 
