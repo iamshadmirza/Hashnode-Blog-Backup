@@ -1,4 +1,4 @@
-## React Native Animation using Hooks: Tinder Cards
+# React Native Animation using Hooks: Tinder Cards
 
 Hello everyone, We are back with some React Native Animation, and this time we are building **Tinder Cards using Hooks**. We will build a deck of cards featuring cute animals where you can swipe left or right. And finally, we will decouple the whole logic into a reusable hook. Let's start 🚀
 
@@ -536,3 +536,5 @@ Other things remain the same. You can also directly return styles and apply them
 
 I hope you learned something with this tutorial. If yes, a tweet would be wonderful 🤓. Let me know what you would like me to write next.  
 Shad
+
+%%[buy-me-a-coffee]
