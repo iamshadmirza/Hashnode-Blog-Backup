@@ -1,4 +1,4 @@
-## From Nothing to Hashnode: My Tech Journey
+# From Nothing to Hashnode: My Tech Journey
 
 Hi everyone, it's almost the end of the year 2020 and since everyone is sharing how this year went for them, I thought of doing the same. This is my coding journey from nothing to joining [Hashnode Team](https://hashnode.com/about). It's going to be a long ride so hold tight.
 
