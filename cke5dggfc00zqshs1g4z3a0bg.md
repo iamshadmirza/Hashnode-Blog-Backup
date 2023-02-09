@@ -1,4 +1,4 @@
-## React Native Animation using Hooks: Loading Screen
+# React Native Animation using Hooks: Loading Screen
 
 Hey there, I guess you decided to read this blog to learn a few things about React Native Animation and Hooks. You're in the right place.
 
