@@ -1,4 +1,4 @@
-## How to Align and Justify your flex item in first try
+# How to Align and Justify your flex item in first try
 
 ## **The Idea**
 
