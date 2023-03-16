@@ -27,7 +27,7 @@ This is scary because I didn't know AWS or GraphQL at all. Hashnode has extensiv
 
 Huge shoutout to @[Sandro Volpicella](@SandroVolpicella)  and @[Jannik Wempe](@JannikWempe)  for their time and efforts in building docs and tutorials for onboarding new devs. Special thanks to @[Florian Fuchs](@Foxfl) for answering my silly questions during this time.
 
-AWS is vast and has a ton of topics with so much depth in each of them. I'm unfamiliar with everything as it's not long since I moved to this role. It always feels like I need to contribute more and do things as they should be done. I must keep reminding myself that it's always like that when you start something new, and it's a transition process. It is supposed to take time to adjust and start contributing as it meant to me.
+AWS is vast and has a ton of topics with so much depth in each of them. I'm still not familiar with a lot of it as it's not long since I moved to this role. It always feels like I need to contribute more and do things as they should be done. I must keep reminding myself that it's always like that when you start something new, and it's a transition process. It is supposed to take time to adjust and start contributing as it meant to me.
 
 Getting used to a new team's dynamic and processes can take a while. It can be overwhelming to learn new tools, systems, and procedures. I'm glad I have smart colleagues helping me in this transition.
 
@@ -51,7 +51,7 @@ Take failure as just another sign of growth. If you're always succeeding on the 
 
 ## Takeaways
 
-Changing teams in a tech company can be a challenging experience but also an opportunity for growth and development. It's essential to give yourself time to adjust, be kind to yourself, and seek support from your team members. 
+Changing teams in a tech company can be a challenging experience but also an opportunity for growth and development. It's essential to give yourself time to adjust, be kind to yourself, and seek support from your team members.
 
 Remember that imposter syndrome and fear of failure are normal experiences, and making mistakes is okay. You have overcome such challenges before; you can do it again. Anything that comes when you grow outside your comfort zone is the real growth your career needs.
 
