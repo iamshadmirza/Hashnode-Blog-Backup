@@ -15,7 +15,7 @@ Hey everyone, I'm Shad, and I work at Hashnode. I have been taking care of build
 
 > [Check out the mobile app if you haven't already.](http://hashnode.com/apps)
 
-You have to wear many hats when you're working in a startup. Changing teams is one of the experiences where your world is twisted upside down, and you move out of your comfort zone. Changing teams can be both an exciting and daunting experience. It definitely comes with opportunities to learn new skills and grow in entirely new areas but also many challenges. Let's explore my experience and struggles of transitioning into a new role.
+You have to wear many hats when you're working in a startup. Changing teams is one of the experiences where your world is twisted upside down, and you move out of your comfort zone. Changing teams can be both an exciting and daunting experience. It definitely comes with opportunities to learn new skills and grow in entirely new areas but it also has many challenges. Let's explore my experience and struggles of transitioning into a new role.
 
 ## The Adjustment Period
 
@@ -25,15 +25,15 @@ I got lucky, and a perfect opportunity knocked at my door. Hashnode was building
 
 This is scary because I didn't know AWS or GraphQL at all. Hashnode has extensive documentation and video tutorials on how to get started with AWS and GraphQL. These resources have helped immensely to get familiar with the codebase.
 
-Huge shoutout to @[Sandro Volpicella](@SandroVolpicella)  and @[Jannik Wempe](@JannikWempe)  for their time and efforts in building docs and tutorials for onboarding new devs. Special thanks to @[Florian Fuchs](@Foxfl) for answering my silly questions during this time.
+Huge shoutout to @[Sandro Volpicella](@SandroVolpicella) and @[Jannik Wempe](@JannikWempe) for their time and efforts in building docs and tutorials for onboarding new devs. Special thanks to @[Florian Fuchs](@Foxfl) for answering my silly questions during this time.
 
-AWS is vast and has a ton of topics with so much depth in each of them. I'm still not familiar with a lot of it as it's not long since I moved to this role. It always feels like I need to contribute more and do things as they should be done. I must keep reminding myself that it's always like that when you start something new, and it's a transition process. It is supposed to take time to adjust and start contributing as it meant to me.
+AWS is vast and has a ton of topics with so much depth in each of them. I'm still not familiar with a lot of it as it's not long since I moved to this role. It always feels like I need to contribute more and do things as they should be done. You must keep reminding yourself that it's always like that when you start something new, and it's a transition process. It is supposed to take time to adjust and start contributing as it is meant to be.
 
 Getting used to a new team's dynamic and processes can take a while. It can be overwhelming to learn new tools, systems, and procedures. I'm glad I have smart colleagues helping me in this transition.
 
 ## Imposter Syndrome
 
-We all have experienced Imposter syndrome at some point in our careers but overcame it as we grew. New roles don't only bring new opportunities, but it also brings a new range of self-doubt and imposter syndrome. You might be doing pretty well and have many achievements in your previous role. Still, the feeling of inadequacy starts hitting as soon as you start getting challenges you can't overcome alone. Moving to a new team can trigger these feelings again, especially if you're starting in a new role in a different stack.
+We all have experienced imposter syndrome at some point in our careers but overcame it as we grew. New roles don't only bring new opportunities, but it also brings a new range of self-doubt and imposter syndrome. You might be doing pretty well and have many achievements in your previous role. Still, the feeling of inadequacy starts hitting as soon as you start getting challenges you can't overcome alone. Moving to a new team can trigger these feelings again, especially if you're starting in a new role in a different stack.
 
 Working with AWS made me feel like a fresher again. It requires a complete shift in mindset from front-end development. Building infrastructure requires knowledge of multiple building blocks, and as someone new, you have to start from scratch. Even basic stuff like checking logs is different and needs to be learned.
 
